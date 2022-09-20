@@ -1,0 +1,29 @@
+img{
+    border-bottom: 2px solid rgb(2, 162, 255);
+}
+
+
+.lead{
+    background-color: rgb(2, 162, 255);
+    border-radius: 10px;
+    color: white;
+    -webkit-box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0); 
+    box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 5px 5px 15px 5px rgba(0,0,0,0);
+    background: #1C6EA4;
+}
+
+
+button:hover{
+    transition: 1s;
+    -webkit-box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 10px 10px 20px 10px rgba(0,0,0,0); 
+    box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 10px 10px 20px 10px rgba(0,0,0,0);
+    background: #1C6EA4;
+}
+
+.col-md-12{
+    background: #0b77f367;
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 10px 10px 20px 10px rgba(0,0,0,0); 
+    box-shadow: inset -1px 3px 8px 5px #1F87FF, 2px 5px 16px 0px #0B325E, 10px 10px 20px 10px rgba(0,0,0,0);
+}
